@@ -11,3 +11,9 @@ for (var i = 0; i < 25; i++) {
 }
 
 $('#photos').append(allImages);
+
+// vanilla JS
+var msnry = new Masonry( '.grid', {
+  columnWidth: 200,
+  itemSelector: '.grid-item'
+});
