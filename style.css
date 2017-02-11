@@ -22,8 +22,7 @@ li a:hover:not(.active) {
     background-color: #555;
     color: white;
 }
-</style>
-</head>
+
 <body>
 
 <h2>Vertical Navigation Bar</h2>
@@ -35,9 +34,6 @@ li a:hover:not(.active) {
   <li><a href="contact">Contact</a></li>
   <li><a href="about">About</a></li>
 </ul>
-
-</body>
-</html>
 
 ul {
     list-style-type: none;
