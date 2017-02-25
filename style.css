@@ -27,7 +27,7 @@ li a:hover:not(.active) {
 
 #photos img {
   /* Just in case there are inline attributes */
-  width: 70% !important;
+  width: 50% !important;
   height: auto !important;
 }
 
