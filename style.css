@@ -25,18 +25,6 @@ li a:hover:not(.active) {
 
 <body>
 
-#photos {
-  /* Prevent vertical gaps */
-  line-height: 0;
-   
-  -webkit-column-count: 5;
-  -webkit-column-gap:   5px;
-  -moz-column-count:    5;
-  -moz-column-gap:      5px;
-  column-count:         5;
-  column-gap:           5px;  
-}
-
 #photos img {
   /* Just in case there are inline attributes */
   width: 70% !important;
