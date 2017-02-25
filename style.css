@@ -25,37 +25,6 @@ li a:hover:not(.active) {
 
 <body>
 
-<h2>Vertical Navigation Bar</h2>
-<p>"Home" link.</p>
-
-<ul>
-  <li><a class="active" href="home">Home</a></li>
-  <li><a href="news">News</a></li>
-  <li><a href="contact">Contact</a></li>
-  <li><a href="about">About</a></li>
-</ul>
-
-<body>
-
-<ul>
-  <li><a href="#home">Home</a></li>
-  <li><a href="#news">News</a></li>
-  <li class="dropdown">
-    <a href="javascript:void(0)" class="dropbtn">Dropdown</a>
-    <div class="dropdown-content">
-      <a href="#">Link 1</a>
-      <a href="#">Link 2</a>
-      <a href="#">Link 3</a>
-    </div>
-  </li>
-</ul>
-
-<h3>Dropdown Menu inside a Navigation Bar</h3>
-<p>Hover over the "Dropdown" link to see the dropdown menu.</p>
-
-</body>
-</html>
-
 #photos {
   /* Prevent vertical gaps */
   line-height: 0;
@@ -116,5 +85,4 @@ body {
   }
 }
 
-.grid-item { width: 200px; }
-.grid-item--width2 { width: 400px; }
+</body>
